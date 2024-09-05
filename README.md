@@ -1,2 +1,5 @@
-# state_machine_doc
-This repository contain document of state_machine repo in wiki
+# مستندات ماشین حالت
+ این مخزن شامل مستندات ماشین حالت در بخش [Wiki](https://github.com/faraabin/state_machine_doc/wiki) است.
+
+برای شروع به کار با ماشین حالت میتوانید از مطلب زیر شروع کنید :
+- آغاز به کار با ماشین حالت
